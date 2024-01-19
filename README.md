@@ -30,15 +30,15 @@ To install the necessary packages, run the following command in your command pro
 
 pip install requests wmi speedtest-cli screeninfo
 
-## Usage:
+## Installation and Usage
 
-To execute the script, open a command prompt and run:
+1. Clone this repository to your machine.
+2. Navigate to the script directory.
+3. Run the script with Python in the command prompt:
 
-python system_info.py
+   python system_info.py
 
-Make sure you are in the same directory as the system_info.py script when you execute this command.
-
-The script will sequentially fetch and display each piece of system information.
+The script will execute and present the information in a structured format in the command prompt.
 
 ## Note
 
