@@ -32,7 +32,7 @@ To install the necessary packages, run the following command in your command pro
 
 pip install requests wmi speedtest-cli screeninfo
 
-Usage:
+## Usage:
 
 To execute the script, open a command prompt and run:
 
@@ -42,16 +42,16 @@ Make sure you are in the same directory as the system_info.py script when you ex
 
 The script will sequentially fetch and display each piece of system information.
 
-Note
+## Note
 
 The script must be run with administrative privileges to access all system details.
 The output does not include the physical screen size in inches, as this information is not readily available through system calls or APIs.
 
-Contributing
+## Contributing
 
 Feel free to fork the repository and submit pull requests. For substantial changes, please open an issue first to discuss what you would like to change.
 
-License
+## License
 
 This project is open-sourced under the MIT license. See the LICENSE file for details.
 Handle the output carefully as it contains sensitive information such as the MAC address and public IP.
