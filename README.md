@@ -1,5 +1,3 @@
-# SystemInfo
-
 # System Information Retrieval Script
 
 This repository contains a Python script for retrieving detailed system information on Windows 10/11 operating systems. The script is designed to be user-friendly and provides a quick overview of important system specifications.
